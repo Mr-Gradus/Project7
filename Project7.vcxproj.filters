@@ -28,7 +28,16 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Students.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
     <ClInclude Include="main.pb.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="SG.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

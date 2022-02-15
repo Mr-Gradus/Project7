@@ -1,4 +1,7 @@
-syntax="proto3";
+syntax = "proto3";
+
+
+package Study;
 
 message FullName{
     string name = 1;
